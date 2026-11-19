@@ -1,0 +1,5 @@
+[ps5]
+ip = "10.10.10.65"
+# Integer value of user-credential in the WAKEUP packet; decimal or 0x-prefixed hexadecimal.
+# Do not use the outer hex-encoded text from the RP-Registkey request header directly.
+credential = "REPLACE_WITH_YOUR_WAKE_CREDENTIAL"
